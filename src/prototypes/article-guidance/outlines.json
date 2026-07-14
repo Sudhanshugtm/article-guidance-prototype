@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Project:Article guidance/Bridge",
+    "label": "Bridge",
+    "description": "Structure that spans and provides a passage over a road, railway, river, or some other obstacle",
+    "articleType": "Q12280",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Yavuz_Sultan_Selim_Bridge_Istanbul.jpg/60px-Yavuz_Sultan_Selim_Bridge_Istanbul.jpg",
+    "hierarchyDepth": 41
+  },
+  {
+    "title": "Project:ArticleGuidance/Actor",
+    "label": "Actor",
+    "description": "Person who acts in a dramatic or comic production and works in film, television, theatre, or radio",
+    "articleType": "Q33999",
+    "matchVia": "P106",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Chaplin_The_Kid_edit.jpg/60px-Chaplin_The_Kid_edit.jpg",
+    "hierarchyDepth": 30
+  },
+  {
+    "title": "Project:ArticleGuidance/Album",
+    "label": "Album",
+    "description": "Grouping of album releases by an artist usually released at the same time with the same title and tracks but in different formats for consumption (digital, CD, LP)",
+    "articleType": "Q482994",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/6PanelDigipakOasisCD2008.jpg/60px-6PanelDigipakOasisCD2008.jpg",
+    "hierarchyDepth": 13
+  },
+  {
+    "title": "Project:ArticleGuidance/Animal",
+    "label": "Animalia",
+    "description": "Kingdom of multicellular eukaryotic organisms",
+    "articleType": "Q729",
+    "matchVia": "P171",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/60px-Animal_diversity.png",
+    "hierarchyDepth": 14
+  },
+  {
+    "title": "Project:ArticleGuidance/Armed Conflict",
+    "label": "Conflict",
+    "description": "Friction, disagreement, or discord within a group or between different groups",
+    "articleType": "Q180684",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TS_2015-01-15-2448_%2815664444213%29.jpg/60px-TS_2015-01-15-2448_%2815664444213%29.jpg",
+    "hierarchyDepth": 36
+  },
+  {
+    "title": "Project:ArticleGuidance/Astronomical Object",
+    "label": "Astronomical object",
+    "description": "Physical body of astronomically-significant size, mass, or role, naturally occurring in a universe",
+    "articleType": "Q6999",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/IC_1687_SDSS.jpg/60px-IC_1687_SDSS.jpg",
+    "hierarchyDepth": 10
+  },
+  {
+    "title": "Project:ArticleGuidance/Award",
+    "label": "Award",
+    "description": "Something given to a person or a group of people to recognize their merit or excellence",
+    "articleType": "Q618779",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Medal_Nobel_Peace_Prize.jpg/60px-Medal_Nobel_Peace_Prize.jpg",
+    "hierarchyDepth": 14
+  },
+  {
+    "title": "Project:ArticleGuidance/Book",
+    "label": "Book",
+    "description": "Medium for recording information (words or images) typically on bound pages or more abstractly in electronic or audio form",
+    "articleType": "Q571",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Reimski_evan%C4%91elistar.10.jpg/60px-Reimski_evan%C4%91elistar.10.jpg",
+    "hierarchyDepth": 27
+  },
+  {
+    "title": "Project:ArticleGuidance/Building",
+    "label": "Building",
+    "description": "Structure, typically enclosed with a roof and walls, standing more or less permanently in one place",
+    "articleType": "Q41176",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lutheran_Cathedral_Helsinki.jpg/60px-Lutheran_Cathedral_Helsinki.jpg",
+    "hierarchyDepth": 31
+  },
+  {
+    "title": "Project:ArticleGuidance/Celebrity",
+    "label": "Celebrity",
+    "description": "Prominent person who commands some degree of public fascination and appears in the media",
+    "articleType": "Q211236",
+    "matchVia": "P106",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Brad_Pitt%2C_Margot_Robbie%2C_and_Leonardo_DiCaprio_2019_by_Glenn_Francis.jpg/60px-Brad_Pitt%2C_Margot_Robbie%2C_and_Leonardo_DiCaprio_2019_by_Glenn_Francis.jpg",
+    "hierarchyDepth": 18
+  },
+  {
+    "title": "Project:ArticleGuidance/Chemical Element",
+    "label": "Chemical element",
+    "description": "Species of atoms having the same number of protons in the atomic nucleus and the same chemical properties, but not necessarily the same mass, or the same stability (or half-lifetime if they are unstable)",
+    "articleType": "Q11344",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Simple_Periodic_Table_Chart-en.svg/60px-Simple_Periodic_Table_Chart-en.svg",
+    "hierarchyDepth": 14
+  },
+  {
+    "title": "Project:ArticleGuidance/Citrus",
+    "label": "Fruit",
+    "description": "Typically sweet and/or sour, edible part/s of a plant that resembles seed-bearing fruit",
+    "articleType": "Q3314483",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fruit_Stall_in_Barcelona_Market.jpg/60px-Fruit_Stall_in_Barcelona_Market.jpg",
+    "hierarchyDepth": 41
+  },
+  {
+    "title": "Project:ArticleGuidance/City",
+    "label": "City",
+    "description": "Large human settlement",
+    "articleType": "Q515",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NYC_wideangle_south_from_Top_of_the_Rock.jpg/60px-NYC_wideangle_south_from_Top_of_the_Rock.jpg",
+    "hierarchyDepth": 40
+  },
+  {
+    "title": "Project:ArticleGuidance/Company",
+    "label": "Business",
+    "description": "Organization undertaking commercial, industrial, or professional activity",
+    "articleType": "Q4830453",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Swords_Pavilions_Shopping_Centre.jpg/60px-Swords_Pavilions_Shopping_Centre.jpg",
+    "hierarchyDepth": 23
+  },
+  {
+    "title": "Project:ArticleGuidance/Country",
+    "label": "Country",
+    "description": "Distinct territorial body or political entity",
+    "articleType": "Q6256",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/CIA_WorldFactBook-Political_world.png/60px-CIA_WorldFactBook-Political_world.png",
+    "hierarchyDepth": 45
+  },
+  {
+    "title": "Project:ArticleGuidance/Disease",
+    "label": "Class of disease",
+    "description": "Disease as a first-order metaclass. To be used as P31 values for all disease classes. Its instances are classes (e.g., cancer)",
+    "articleType": "Q112193867",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 8
+  },
+  {
+    "title": "Project:ArticleGuidance/Film",
+    "label": "Film",
+    "description": "Sequence of images that give the impression of movement, stored on film stock",
+    "articleType": "Q11424",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Muybridge_race_horse_animated.gif/60px-Muybridge_race_horse_animated.gif",
+    "hierarchyDepth": 72
+  },
+  {
+    "title": "Project:ArticleGuidance/Fossil",
+    "label": "Fossil taxon",
+    "description": "Taxon described on the basis of fossil material",
+    "articleType": "Q23038290",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 7
+  },
+  {
+    "title": "Project:ArticleGuidance/Fruit",
+    "label": "Fruit",
+    "description": "Typically sweet and/or sour, edible part/s of a plant that resembles seed-bearing fruit",
+    "articleType": "Q3314483",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fruit_Stall_in_Barcelona_Market.jpg/60px-Fruit_Stall_in_Barcelona_Market.jpg",
+    "hierarchyDepth": 41
+  },
+  {
+    "title": "Project:ArticleGuidance/Historical Country",
+    "label": "Historical country",
+    "description": "Country, state or territory that once existed",
+    "articleType": "Q3024240",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 50
+  },
+  {
+    "title": "Project:ArticleGuidance/Human Settlement",
+    "label": "Human settlement",
+    "description": "Place of any size, in which people permanently live",
+    "articleType": "Q486972",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flora_OR_-_aerial.jpg/60px-Flora_OR_-_aerial.jpg",
+    "hierarchyDepth": 34
+  },
+  {
+    "title": "Project:ArticleGuidance/Ice hockey player",
+    "label": "Ice hockey player",
+    "description": "Sportsperson taking part in ice hockey competitions",
+    "articleType": "Q11774891",
+    "matchVia": "P106",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Girls_ice_hockey_team_1921.jpg/60px-Girls_ice_hockey_team_1921.jpg",
+    "hierarchyDepth": 25
+  },
+  {
+    "title": "Project:ArticleGuidance/Island",
+    "label": "Island",
+    "description": "Piece of sub-continental land completely surrounded by water",
+    "articleType": "Q23442",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Islas-Malgrats4-Mallorca-rafax.jpg/60px-Islas-Malgrats4-Mallorca-rafax.jpg",
+    "hierarchyDepth": 31
+  },
+  {
+    "title": "Project:ArticleGuidance/Landform",
+    "label": "Landform",
+    "description": "Natural or anthropogenic land feature on the solid surface of the Earth or other planetary body; geomorphological unit in the Earth sciences",
+    "articleType": "Q271669",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Blick_zum_Muretto-Pass_P1000742.JPG/60px-Blick_zum_Muretto-Pass_P1000742.JPG",
+    "hierarchyDepth": 15
+  },
+  {
+    "title": "Project:ArticleGuidance/Literary Work",
+    "label": "Literary work",
+    "description": "Written work read for enjoyment or edification",
+    "articleType": "Q7725634",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 9
+  },
+  {
+    "title": "Project:ArticleGuidance/Medical Condition",
+    "label": "Medical metaclass",
+    "description": "",
+    "articleType": "Q103994247",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 7
+  },
+  {
+    "title": "Project:ArticleGuidance/Medical Test",
+    "label": "Medical test type",
+    "description": "Wikidata metaclass for medical test and diagnostic procedure",
+    "articleType": "Q55215251",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 10
+  },
+  {
+    "title": "Project:ArticleGuidance/Museum",
+    "label": "Museum",
+    "description": "Institution that holds artifacts and other objects of scientific, artistic, cultural, historical, or other importance",
+    "articleType": "Q33506",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/GD-EG-Caire-Mus%C3%A9e007.JPG/60px-GD-EG-Caire-Mus%C3%A9e007.JPG",
+    "hierarchyDepth": 57
+  },
+  {
+    "title": "Project:ArticleGuidance/Music Genre",
+    "label": "Music genre",
+    "description": "Category that identifies pieces of music as belonging to a shared tradition or set of conventions",
+    "articleType": "Q188451",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 8
+  },
+  {
+    "title": "Project:ArticleGuidance/Musician",
+    "label": "Musician",
+    "description": "Person who composes, conducts or performs music",
+    "articleType": "Q639669",
+    "matchVia": "P106",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Quito_Accordion_player.jpg/60px-Quito_Accordion_player.jpg",
+    "hierarchyDepth": 23
+  },
+  {
+    "title": "Project:ArticleGuidance/Person",
+    "label": "Human",
+    "description": "Any single member of Homo sapiens, unique extant species of the genus Homo",
+    "articleType": "Q5",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Akha_cropped_hires.JPG/60px-Akha_cropped_hires.JPG",
+    "hierarchyDepth": 33
+  },
+  {
+    "title": "Project:ArticleGuidance/Plant",
+    "label": "Plant",
+    "description": "Living thing in the kingdom of photosynthetic eukaryotes",
+    "articleType": "Q756",
+    "matchVia": "P171",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Thanh_Long_%E1%BB%9F_Ninh_Thu%E1%BA%ADn.jpg/60px-Thanh_Long_%E1%BB%9F_Ninh_Thu%E1%BA%ADn.jpg",
+    "hierarchyDepth": 7
+  },
+  {
+    "title": "Project:ArticleGuidance/Politician",
+    "label": "Politician",
+    "description": "Person who holds or seeks positions in government",
+    "articleType": "Q82955",
+    "matchVia": "P106",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lietuvas_parlamenta_priek%C5%A1s%C4%93d%C4%93t%C4%81ja_viz%C4%ABte_Latvij%C4%81.jpg/60px-Lietuvas_parlamenta_priek%C5%A1s%C4%93d%C4%93t%C4%81ja_viz%C4%ABte_Latvij%C4%81.jpg",
+    "hierarchyDepth": 22
+  },
+  {
+    "title": "Project:ArticleGuidance/Product",
+    "label": "Machine",
+    "description": "Set of moving and fixed elements that uses energy to perform an intended action",
+    "articleType": "Q11019",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bonsack_machine.png/60px-Bonsack_machine.png",
+    "hierarchyDepth": 19
+  },
+  {
+    "title": "Project:ArticleGuidance/Recent Event",
+    "label": "Form of event",
+    "description": "Metaclass, grouping forms and types of events by specificity",
+    "articleType": "Q108586636",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 7
+  },
+  {
+    "title": "Project:ArticleGuidance/Religion",
+    "label": "Religion",
+    "description": "Social-cultural system",
+    "articleType": "Q9174",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/16_religionist_symbols.png/60px-16_religionist_symbols.png",
+    "hierarchyDepth": 47
+  },
+  {
+    "title": "Project:ArticleGuidance/School",
+    "label": "Type of educational institution",
+    "description": "Wikidata metaclass as a classification for educational institutions",
+    "articleType": "Q112872396",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 11
+  },
+  {
+    "title": "Project:ArticleGuidance/Social issue",
+    "label": "Social issue",
+    "description": "Problem that influences a considerable number of individuals within a society",
+    "articleType": "Q1920219",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 10
+  },
+  {
+    "title": "Project:ArticleGuidance/Software",
+    "label": "Software",
+    "description": "Non-tangible executable component of a computer",
+    "articleType": "Q7397",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kmail.png/60px-Kmail.png",
+    "hierarchyDepth": 17
+  },
+  {
+    "title": "Project:ArticleGuidance/Song",
+    "label": "Musical work/composition",
+    "description": "Wikidata metaclass; legal concept of uniquely identifiable piece or work of music, either vocal or instrumental; NOT applicable to recordings, broadcasts, or individual publications of music in printed or digital form or on physical media",
+    "articleType": "Q105543609",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 9
+  },
+  {
+    "title": "Project:ArticleGuidance/Sports Club",
+    "label": "Sports club",
+    "description": "Organization for the purpose of playing one or more sports",
+    "articleType": "Q847017",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ballygunner.jpg/60px-Ballygunner.jpg",
+    "hierarchyDepth": 26
+  },
+  {
+    "title": "Project:ArticleGuidance/Sportsperson",
+    "label": "Athlete",
+    "description": "Person who participates regularly in a running competition sports",
+    "articleType": "Q2066131",
+    "matchVia": "P106",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1500finalM1.JPG/60px-1500finalM1.JPG",
+    "hierarchyDepth": 19
+  },
+  {
+    "title": "Project:ArticleGuidance/Television Series",
+    "label": "Television series",
+    "description": "Connected set of television program episodes under the same title",
+    "articleType": "Q5398426",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 85
+  },
+  {
+    "title": "Project:ArticleGuidance/Theorem",
+    "label": "Theorem",
+    "description": "In mathematics, a statement that has been proved",
+    "articleType": "Q65943",
+    "matchVia": null,
+    "thumbnail": null,
+    "hierarchyDepth": 13
+  },
+  {
+    "title": "Project:ArticleGuidance/Tropical fruit",
+    "label": "Fruit",
+    "description": "Typically sweet and/or sour, edible part/s of a plant that resembles seed-bearing fruit",
+    "articleType": "Q3314483",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fruit_Stall_in_Barcelona_Market.jpg/60px-Fruit_Stall_in_Barcelona_Market.jpg",
+    "hierarchyDepth": 41
+  },
+  {
+    "title": "Project:ArticleGuidance/University",
+    "label": "University",
+    "description": "Academic institution for further education",
+    "articleType": "Q3918",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Raffael_058.jpg/60px-Raffael_058.jpg",
+    "hierarchyDepth": 46
+  },
+  {
+    "title": "Project:ArticleGuidance/Video Game",
+    "label": "Video game",
+    "description": "Electronic game with user interface and visual feedback",
+    "articleType": "Q7889",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ArcadeGames.jpg/60px-ArcadeGames.jpg",
+    "hierarchyDepth": 56
+  },
+  {
+    "title": "مشروع: إرشادات المقالات/شخص",
+    "label": "Human",
+    "description": "Any single member of Homo sapiens, unique extant species of the genus Homo",
+    "articleType": "Q5",
+    "matchVia": null,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Akha_cropped_hires.JPG/60px-Akha_cropped_hires.JPG",
+    "hierarchyDepth": 33
+  }
+]
