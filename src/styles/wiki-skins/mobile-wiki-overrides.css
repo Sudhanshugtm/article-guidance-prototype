@@ -1,0 +1,46 @@
+/**
+ * Patches for Parsoid HTML + Minerva RL that are still missing after
+ * `npm run snapshot:wiki-skins`.
+ *
+ * Mobile hatnote strip: Minerva applies a full-width neutral band + borders on
+ * en.m.wikipedia; RL CSS alone does not, while inline Module:Hatnote styles
+ * keep the desktop `padding-left: 1.6em` gutter.
+ *
+ * No border-top — ArticleHeader’s icon toolbar already draws the divider above;
+ * duplicating it stacks two hairlines.
+ */
+
+.article[data-skin='mobile'] .mw-parser-output div.hatnote {
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-bottom: var(--spacing-50, 8px) !important;
+  padding: var(--spacing-50, 8px) var(--spacing-100, 16px) !important;
+  border-top: none;
+  border-bottom: 1px solid var(--border-color-muted, var(--border-color-subtle));
+  background-color: var(--background-color-neutral-subtle);
+  font-family: inherit;
+  font-size: var(--font-size-small);
+  line-height: var(--line-height-small, 1.4);
+}
+
+/*
+ * Inline Hatnote TemplateStyles set `.hatnote i { font-style: normal }`
+ * (those <style> tags are inserted after head stylesheets). Match mobile-web:
+ * full line reads as italic, including linked album title.
+ */
+.article[data-skin='mobile'] .mw-parser-output div.hatnote i {
+  font-style: italic !important;
+}
+
+/*
+ * Parsoid often inserts `<p class="mw-empty-elt">` after the hatnote (invisible
+ * maintenance templates). It still picks up default paragraph margins / line box
+ * — remove it from layout so the lead / infobox sits flush under the strip.
+ */
+.article[data-skin='mobile'] .mw-parser-output div.hatnote + p.mw-empty-elt {
+  display: none;
+}
+
+.article[data-skin='mobile'] .mw-parser-output div.hatnote:has(+ p.mw-empty-elt) {
+  margin-bottom: 0 !important;
+}
